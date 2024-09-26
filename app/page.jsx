@@ -107,9 +107,10 @@ export default function Home() {
             <h2 className="text-3xl font-bold mb-4 text-red-600">What Our Customers Say</h2>
           </div>
           <blockquote className="bg-gray-800 p-6 rounded-lg shadow-md text-center max-w-3xl mx-auto"> 
-            <p className="text-lg italic text-white">&quot;Best food truck experience ever! The kebabs are out of this world.&quot;</p>
-            <footer className="mt-4 text-gray-300">— Jimmy John</footer>
-          </blockquote>
+  <p className="text-lg italic text-white">&quot;Best food truck experience ever! The kebabs are out of this world.&quot;</p>
+  <footer className="mt-4 text-gray-300">— Jimmy John</footer>
+</blockquote>
+
         </section>
 
         {/* Social Media Links */}
